@@ -1,7 +1,7 @@
 # thinkbridge
 
 ⚙ System Requirements
-1. Java setup on your PC
+1. Java installed
 2. Eclipse IDE
 3. Chrome Browser
 
@@ -18,8 +18,8 @@
 3. Wait for the Build to get completed
 
 ✔ Check Reports
-1. Go to the location where project is placed then open Target>surefire-reports>index for seeing the testNG Report
-2. Go to the location where project is placed then open open Target>surefire-reports>emailable-report for seeing the emailable testNG Report
+1. Go to the project location and open Target>surefire-reports>index for seeing the testNG Report
+2. Go to the project location and open Target>surefire-reports>emailable-report for seeing the emailable testNG Report
 
 🕔 Time Tracking
 1. Identifying locators - 1 hour
